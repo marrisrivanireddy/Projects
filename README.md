@@ -1,9 +1,9 @@
 # Project C-Square
 <br>
 https://www.figma.com/design/hINQYR0DqTNfej2pkn621W/c-square-project?m=auto&t=IIdmivcd5TlgT2F7-6
-# C-Square (Conference Call Project)
+ C-Square (Conference Call Project)
 <br>
- Project Overview
+ # Project Overview
 C-Square is a UI/UX prototype designed to enhance conference call experiences by displaying participant details. Often, during a conference call, users do not know who is on the call or how many people are present. C-Square solves this by visually representing all participants, showing their names if available, or displaying their phone numbers for unknown contacts.
 <br>
   Purpose 
